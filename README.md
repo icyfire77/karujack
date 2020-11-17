@@ -1,2 +1,2 @@
 # karujack
-a blackjack bot that uses karuta currency.
+it doesn't exist yet
